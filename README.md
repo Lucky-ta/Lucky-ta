@@ -20,4 +20,5 @@ I live in Porto Alegre, a Rio Grande do Sul city in Brazil. I'm currently studyi
   </a>
 </div>
   
-[![Github Bagde](https://github-readme-stats.vercel.app/api?username=Luckyta)
+  [![Github Bagde](https://github-readme-stats.vercel.app/api?username=Lucky-ta&show_icons=true&count_private=true&theme=tokyonight)
+
