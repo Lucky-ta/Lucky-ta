@@ -18,6 +18,6 @@ I live in Porto Alegre, a Rio Grande do Sul city in Brazil. I'm currently studyi
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50" height="50"/>
   </a>
-  [![Github Bagde](https://github-readme-stats.vercel.app/api?username=Luckyta)
 </div>
-
+  
+[![Github Bagde](https://github-readme-stats.vercel.app/api?username=Luckyta)
