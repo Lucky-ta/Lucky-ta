@@ -24,5 +24,5 @@ I live in Porto Alegre, a Rio Grande do Sul city in Brazil. I'm currently studyi
 </hr>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Lucky-ta&show_icons=true&count_private=true&theme=tokyonight" height="160em" style="max-width: 100%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky-ta&show_icons=true&count_private=true&theme=tokyonight" height="160em" style="max-width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky-ta&layout=compact&langs_count=10&theme=tokyonight" height="160em" style="max-width: 100%;"/>
 </div>
