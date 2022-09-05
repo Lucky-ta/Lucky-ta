@@ -4,6 +4,7 @@
 ## About me
 
 I live in Porto Alegre, a Rio Grande do Sul city in Brazil. I'm a full-stack web developer, and my main stacks are: ReactJs, NextJs, TS, NodeJs and MySQL.
+I'm always looking for more knowledge and opportunities to learn with other peoples and projects. I'm a curious person, so I'm always looking to find out how things work, just making it work doesn't satisfy me.
 
 ## Technologies
 
