@@ -3,7 +3,7 @@
 
 ## About me
 
-I live in Porto Alegre, a Rio Grande do Sul city in Brazil. I'm currently studying Full Stack Web Development at Trybe.
+I live in Porto Alegre, a Rio Grande do Sul city in Brazil. I'm a full-stack web developer, and my main stacks are: ReactJs, NextJs, TS, NodeJs and MySQL.
 
 ## Technologies
 
