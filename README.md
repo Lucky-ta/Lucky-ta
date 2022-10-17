@@ -1,12 +1,25 @@
 ## 👋 Hello! Welcome to my Github profile.
+
 ### My name is Lucas Maieski Marques and my nickname is Luckyta!
 
 ## About me
 
-I live in Porto Alegre, a Rio Grande do Sul city in Brazil. I'm a full-stack web developer, and my main stacks are: ReactJs, NextJs, TS, NodeJs and MySQL.
+I live in Porto Alegre, a Rio Grande do Sul city in Brazil. I'm a full-stack web developer and my main stacks are: ReactJs, NextJs, TS, JavaScript, StyledComponents, CSS, NodeJs and MySQL.
 I'm always looking for more knowledge and opportunities to learn with other peoples and projects. I'm a curious person, so I'm always looking to find out how things work, just making it work doesn't satisfy me.
 
+=================================================================================
+## 👋 Ola! Bem vindo ao meu perfil do Github.
+
+### Meu nome é Lucas Maieski Marques e meu apelido é Luckyta!
+
+## Sobre mim
+
+Eu moro em Porto Alegre, uma cidade do Rio Grande do Sul, no Brasil. Eu sou um desenvolvedor web full-stack e minhas stacks principais são: 
+ReactJs, NextJs, TS, JavaScript, StyledComponents, CSS, NodeJs and MySQL.
+Eu estou sempre prourando por mais conhecimento e oportunidades para aprender com outras pessoas e projetos. Sou uma pessoa curiosa, então estou sempre buscando descobrir como as coisas funcionam, apenas fazer funcionar não me satisfaz
+
 ## Technologies
+## Tecnologias
 
 <div>
   <a href="https://github.com/Lucky-ta">
