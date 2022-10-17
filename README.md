@@ -18,8 +18,7 @@ Eu moro em Porto Alegre, uma cidade do Rio Grande do Sul, no Brasil. Eu sou um d
 ReactJs, NextJs, TS, JavaScript, StyledComponents, CSS, NodeJs and MySQL.
 Eu estou sempre prourando por mais conhecimento e oportunidades para aprender com outras pessoas e projetos. Sou uma pessoa curiosa, então estou sempre buscando descobrir como as coisas funcionam, apenas fazer funcionar não me satisfaz
 
-## Technologies
-## Tecnologias
+## Technologies/Tecnologias
 
 <div>
   <a href="https://github.com/Lucky-ta">
