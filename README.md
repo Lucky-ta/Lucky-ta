@@ -15,7 +15,7 @@ I'm always looking for more knowledge and opportunities to learn with other peop
 ## Sobre mim
 
 Eu moro em Porto Alegre, uma cidade do Rio Grande do Sul, no Brasil. Eu sou um desenvolvedor web full-stack e minhas stacks principais são: 
-ReactJs, NextJs, TS, JavaScript, StyledComponents, CSS, NodeJs and MySQL.
+ReactJs, NextJs, TS, JavaScript, StyledComponents, CSS, NodeJs e MySQL.
 Eu estou sempre prourando por mais conhecimento e oportunidades para aprender com outras pessoas e projetos. Sou uma pessoa curiosa, então estou sempre buscando descobrir como as coisas funcionam, apenas fazer funcionar não me satisfaz
 
 ## Technologies/Tecnologias
